@@ -1,4 +1,3 @@
 # RupsagarShresthaPublicRemoteRepo1
 # This is Lab1
-This is a change from my local machine
-
+This is the change from, local machine and github both
